@@ -83,7 +83,7 @@ end
 
 include Nancy::Delegator
 
-get "/working-get" do
+get "/get-it" do
   "Whoa, it works!"
 end
 
